@@ -1,0 +1,8 @@
+gradio
+torch
+torchvision
+scikit-learn
+huggingface-hub
+pandas
+pillow
+numpy
